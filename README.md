@@ -55,9 +55,9 @@ Weakness: many qualities and domains are not obviously amenable to verifiable co
 * Minecraft
 * Puzzles (e.g., Rubik’s Cubes, Mazes)
 * Cybersecurity
-** Red team exercises (capture the flag: VulnHub, HITB, etc)
-** Blue team exercises (log monitoring, intrusion detection, vulnerability detection)
-** Malware analysis
+  * Red team exercises (capture the flag: VulnHub, HITB, etc)
+  * Blue team exercises (log monitoring, intrusion detection, vulnerability detection)
+  * Malware analysis
 
 ## Neural rewards
 Strengths: works to some degree on ~any quality expressible in words
@@ -82,9 +82,9 @@ Weaknesses: reward hacking, eg, with listicles and length.
 * Prompt Adherence
 * [Output distribution mirroring](https://arxiv.org/abs/2502.01697)
 * Narrative adherence
-** Settings
-** Characters
-** Continuity
+  * Settings
+  * Characters
+  * Continuity
 
 ### Qualitative (Ungrounded) Judgements
 * [Prompt quality](https://arxiv.org/abs/2501.18578)
@@ -93,23 +93,23 @@ Weaknesses: reward hacking, eg, with listicles and length.
 * [Creative writing judge quality](https://eqbench.com/judgemark-v2.html)
 * [Humor](https://eqbench.com/buzzbench.html)
 * [Image quality](https://arxiv.org/abs/2501.18096)
-** SVG generation
-** Text-to-image prompting 
+  * SVG generation
+  * Text-to-image prompting 
 * Legality
 * Audience Appropriateness
-** Age
-** Intelligence
-** Knowledge / Background
-** Background knowledge
-** Culture
+  * Age
+  * Intelligence
+  * Knowledge / Background
+  * Background knowledge
+  * Culture
 * Persona adherence
-** Honesty/Humility
-** Emotional Stability
-** eXtroversion
-** Agreeableness
-** Conscientiousness
-** Openness
-** Compassion / Empathy
+  * Honesty/Humility
+  * Emotional Stability
+  * eXtroversion
+  * Agreeableness
+  * Conscientiousness
+  * Openness
+  * Compassion / Empathy
 
 ## Reasoning Repositories
 ### Reasoning Data
