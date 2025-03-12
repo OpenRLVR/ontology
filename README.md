@@ -1,5 +1,7 @@
-# ontology
-This was originally proposed by [@georgejrjrjr](https://x.com/georgejrjrjr) on a google doc [Ontology for verfiable rewards](https://docs.google.com/document/d/1X-xOT6fR7XV0r7B7JF3hgmosAK0dFpOddv3k3-0Pm1o/edit?usp=sharing) with other contributors. The purpose of this document is turn the google doc into a PRedable markdown file.
+# Ontology
+This was originally proposed by [@georgejrjrjr](https://x.com/georgejrjrjr) on a google doc [Ontology for verfiable rewards](https://docs.google.com/document/d/1X-xOT6fR7XV0r7B7JF3hgmosAK0dFpOddv3k3-0Pm1o/edit?usp=sharing) with other contributors. 
+
+The purpose of this document is turn the google doc into a PRedable markdown file. For original author feel free to let me know to add your credits
 
 ## Verifiable Rewards
 
