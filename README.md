@@ -29,23 +29,23 @@ Weakness: many qualities and domains are not obviously amenable to verifiable co
 
 ### Verifiable Instruction following 
 * Format compliance
-** Language
-** Schemas
-** Tool use
-** Diffs
+  * Language
+  * Schemas
+  * Tool use
+  * Diffs
 * String processing (e.g., AutoIF)
-** Compression / Decompression
-** Presence or absence of words, suffixes, stems, etc.
-** Palindromes
-** Text encodings (e.g., Base64)
-** Ciphers
-** Length of response
-** Parts of speech
-** Reading level
-** Corruption repair
+  * Compression / Decompression
+  * Presence or absence of words, suffixes, stems, etc.
+  * Palindromes
+  * Text encodings (e.g., Base64)
+  * Ciphers
+  * Length of response
+  * Parts of speech
+  * Reading level
+  * Corruption repair
 * Poetry
-** Rhyme
-** Meter
+  * Rhyme
+  * Meter
 
 ### Gymnasia
 * Terminal games (e.g., nethack)
